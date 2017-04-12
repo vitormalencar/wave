@@ -7,10 +7,10 @@ process.env.NODE_ENV === 'production' && require('./offline');
 
 import 'material-design-lite/material';
 
-import App from './components/App';
+import HomePage from './views/home';
 import './style/index.scss';
 
 render(
 	<Router>
-	<App path='/'/>
+	<HomePage path='/'/>
 </Router>, document.body);
