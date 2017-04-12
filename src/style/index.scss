@@ -1,9 +1,24 @@
 body,
 html {
 	background-color: #262728;
-	font-size: 0.8rem;
-	line-height: 1.4;
 	color: #aaabac;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+//=========================================================
+//  Settings
+//---------------------------------------------------------
+
+$base-background-color: #262728 !default;
+$base-font-color: #aaabac !default;
+$base-font-family: Helvetica Neue, Arial, sans-serif !default;
+$base-font-size: 14px !default;
+$base-line-height: 20px !default;
+
+
+//=====================================
+//  Grid
+//-------------------------------------
+$grid-max-width: 960px !default;
+$grid-total-columns: 12 !default;
+$grid-gutter-size: 20px !default;
