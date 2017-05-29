@@ -1,6 +1,6 @@
 {
-  "name": "PreactSimpleStarter",
-  "short_name": "Preact SS",
+  "name": "Wave PWA",
+  "short_name": "Wave",
   "icons": [
     {
       "src": "img/apple-touch-icon-152x152.png",
