@@ -1,5 +1,7 @@
 # WAVE
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/wave.svg)](https://greenkeeper.io/)
+
 This App uses:
   - Preact
   - Preact-mdl
